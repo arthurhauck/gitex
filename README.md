@@ -12,3 +12,5 @@ Some changes before doing "git fetch".
 One more change (part 3.1 q10).
 
 Last line of the file (part 3.1 q10).
+
+It starts to be a bit long, sorry for that!
