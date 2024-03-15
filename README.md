@@ -9,4 +9,6 @@ Some changes made on the main branch.
 
 Some changes before doing "git fetch".
 
+One more change (part 3.1 q10).
+
 Last line of the file (part 3.1 q10).
