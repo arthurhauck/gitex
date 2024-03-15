@@ -8,3 +8,5 @@ This should be a non-conflicting modification made on a secondary branch.
 Some changes made on the main branch.
 
 Some changes before doing "git fetch".
+
+One more change (part 3.1 q10).
